@@ -1,4 +1,4 @@
-# text-recognition-app-android
+# Text-recognition-app-android
 
 An android application that converts images to text.
 
